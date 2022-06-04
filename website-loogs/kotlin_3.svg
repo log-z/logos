@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+</style>
+<g id="kotlin">
+	
+		<radialGradient id="SVGID_1_" cx="87.4573" cy="754.8486" r="91.6175" gradientTransform="matrix(0.9998 0 0 -0.9998 -0.1128 767.991)" gradientUnits="userSpaceOnUse">
+		<stop  offset="3.000000e-03" style="stop-color:#E44857"/>
+		<stop  offset="0.469" style="stop-color:#C711E1"/>
+		<stop  offset="1" style="stop-color:#7F52FF"/>
+	</radialGradient>
+	<path class="st0" d="M90,90H10V10h80L49.2,49.4L90,90z"/>
+</g>
+</svg>

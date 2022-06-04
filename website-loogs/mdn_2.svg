@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<style type="text/css">
+	.st0{fill:#3468BE;}
+</style>
+<g id="mdn">
+	<g>
+		<path class="st0" d="M41.8,13.7L19.3,86.3H10l22.5-72.7H41.8z"/>
+		<path class="st0" d="M50,13.7v72.7h-8.2V13.7H50z"/>
+		<path class="st0" d="M81.8,13.7L59.3,86.3H50l22.5-72.7L81.8,13.7L81.8,13.7z"/>
+		<path class="st0" d="M90,13.7v72.7h-8.2V13.7H90z"/>
+	</g>
+</g>
+</svg>
