@@ -17,6 +17,9 @@
 
 ### bilibili · 哔哩哔哩
 [![bilibili.svg](website-logos/bilibili.svg)](website-logos/bilibili.svg)
+[![bilibili_2.svg](website-logos/bilibili_2.svg)](website-logos/bilibili_2.svg)
+[![bilibili_3.svg](website-logos/bilibili_3.svg)](website-logos/bilibili_3.svg)
+[![bilibili_4.svg](website-logos/bilibili_4.svg)](website-logos/bilibili_4.svg)
 
 ### css3 · CSS 3
 [![css3.svg](website-logos/css3.svg)](website-logos/css3.svg)
