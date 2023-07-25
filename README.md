@@ -82,6 +82,9 @@
 ### npm
 [![npm.svg](website-logos/npm.svg)](website-logos/npm.svg)
 
+### qiuwenbaike · 求闻百科
+[![qiuwenbaike.svg](website-logos/qiuwenbaike.svg)](website-logos/qiuwenbaike.svg)
+
 ### php · PHP
 [![php.svg](website-logos/php.svg)](website-logos/php.svg)
 
