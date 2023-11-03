@@ -39,6 +39,9 @@
 ### github · GitHub
 [![github.svg](website-logos/github.svg)](website-logos/github.svg)
 
+### github_on_dark · GitHub（暗色模式）
+[![github_on_dark.svg](website-logos/github_on_dark.svg)](website-logos/github_on_dark.svg)
+
 ### google · Google
 [![google.svg](website-logos/google.svg)](website-logos/google.svg)
 
@@ -84,6 +87,9 @@
 
 ### qiuwenbaike · 求闻百科
 [![qiuwenbaike.svg](website-logos/qiuwenbaike.svg)](website-logos/qiuwenbaike.svg)
+
+### qiuwenbaike_on_dark · 求闻百科（暗色模式）
+[![qiuwenbaike_on_dark.svg](website-logos/qiuwenbaike_on_dark.svg)](website-logos/qiuwenbaike_on_dark.svg)
 
 ### php · PHP
 [![php.svg](website-logos/php.svg)](website-logos/php.svg)
@@ -141,11 +147,17 @@
 ### wikipedia · 维基百科
 [![wikipedia.svg](website-logos/wikipedia.svg)](website-logos/wikipedia.svg)
 
+### wikipedia_on_dark · 维基百科（暗色模式）
+[![wikipedia_on_dark.svg](website-logos/wikipedia_on_dark.svg)](website-logos/wikipedia_on_dark.svg)
+
 ### wolframalpha · Wolfram|Alpha
 [![wolframalpha.svg](website-logos/wolframalpha.svg)](website-logos/wolframalpha.svg)
 
 ### youtube · YouTube
 [![youtube.svg](website-logos/youtube.svg)](website-logos/youtube.svg)
+
+### youtube_on_dark · YouTube（暗色模式）
+[![youtube_on_dark.svg](website-logos/youtube_on_dark.svg)](website-logos/youtube_on_dark.svg)
 
 ### zlibrary · Z-Library
 [![zlibrary.svg](website-logos/zlibrary.svg)](website-logos/zlibrary.svg)
