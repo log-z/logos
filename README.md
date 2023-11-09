@@ -137,6 +137,9 @@
 ### v2ex · V2EX
 [![v2ex.svg](website-logos/v2ex.svg)](website-logos/v2ex.svg)
 
+### v2ex · V2EX（暗色模式）
+[![v2ex_on_dark.svg](website-logos/v2ex_on_dark.svg)](website-logos/v2ex_on_dark.svg)
+
 ### vue · Vue
 [![vue.svg](website-logos/vue.svg)](website-logos/vue.svg)
 
