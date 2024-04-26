@@ -118,6 +118,9 @@
 ### rocketmq · RocketMQ
 [![rocketmq.svg](website-logos/rocketmq.svg)](website-logos/rocketmq.svg)
 
+### sharemania · ShareMania
+[![sharemania.svg](website-logos/sharemania.svg)](website-logos/sharemania.svg)
+
 ### spring · Spring
 [![spring.svg](website-logos/spring.svg)](website-logos/spring.svg)
 
