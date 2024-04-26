@@ -27,6 +27,9 @@
 ### docker · Docker
 [![docker.svg](website-logos/docker.svg)](website-logos/docker.svg)
 
+### elastic · Elastic
+[![esma_1.svg](website-logos/elastic.svg)](website-logos/elastic.svg)
+
 ### esma · ESMA
 [![esma_1.svg](website-logos/esma_1.svg)](website-logos/esma_1.svg)
 
