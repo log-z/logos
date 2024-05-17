@@ -114,6 +114,9 @@
 
 ### redis · Redis
 [![redis.svg](website-logos/redis.svg)](website-logos/redis.svg)
+[![redis_2.svg](website-logos/redis_2.svg)](website-logos/redis_2.svg)
+[![redis_3.svg](website-logos/redis_3.svg)](website-logos/redis_3.svg)
+[![redis_4.svg](website-logos/redis_4.svg)](website-logos/redis_4.svg)
 
 ### rocketmq · RocketMQ
 [![rocketmq.svg](website-logos/rocketmq.svg)](website-logos/rocketmq.svg)
