@@ -24,6 +24,15 @@
 ### css3 · CSS 3
 [![css3.svg](website-logos/css3.svg)](website-logos/css3.svg)
 
+### chatglm · 智谱清言
+[![chatglm.svg](website-logos/chatglm.svg)](website-logos/chatglm.svg)
+
+### coze · 扣子
+[![coze.svg](website-logos/coze.svg)](website-logos/coze.svg)
+
+### coze_on_dark · 扣子（暗色模式）
+[![coze_on_dark.svg](website-logos/coze_on_dark.svg)](website-logos/coze_on_dark.svg)
+
 ### docker · Docker
 [![docker.svg](website-logos/docker.svg)](website-logos/docker.svg)
 
@@ -35,6 +44,9 @@
 
 ### flink · Flink
 [![flink.svg](website-logos/flink.svg)](website-logos/flink.svg)
+
+### gemini · Gemini
+[![gemini.svg](website-logos/gemini.svg)](website-logos/gemini.svg)
 
 ### gitee · 码云
 [![gitee.svg](website-logos/gitee.svg)](website-logos/gitee.svg)
@@ -64,6 +76,12 @@
 [![jd.svg](website-logos/jd.svg)](website-logos/jd.svg)
 [![jd_2.svg](website-logos/jd_2.svg)](website-logos/jd_2.svg)
 
+### kimiai · Kimi AI
+[![kimiai.svg](website-logos/kimiai.svg)](website-logos/kimiai.svg)
+
+### kimiai_on_dark · Kimi AI（暗色模式）
+[![kimiai_on_dark.svg](website-logos/kimiai_on_dark.svg)](website-logos/kimiai_on_dark.svg)
+
 ### kotlin · Kotlin
 [![kotlin.svg](website-logos/kotlin.svg)](website-logos/kotlin.svg)
 [![kotlin_2.svg](website-logos/kotlin_2.svg)](website-logos/kotlin_2.svg)
@@ -87,6 +105,9 @@
 
 ### npm
 [![npm.svg](website-logos/npm.svg)](website-logos/npm.svg)
+
+### opencompass · OpenCompass 司南
+[![opencompass.svg](website-logos/opencompass.svg)](website-logos/opencompass.svg)
 
 ### operatorframework · Operator Framework
 [![npm.svg](website-logos/operatorframework.svg)](website-logos/operatorframework.svg)

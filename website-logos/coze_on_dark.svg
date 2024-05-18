@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" width="100" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .f {
+        fill: url(#c);
+      }
+
+      .f, .g, .h, .i, .j {
+        stroke-width: 0px;
+      }
+
+      .g {
+        fill: url(#b);
+      }
+
+      .h {
+        fill: #ccc;
+        fill-rule: evenodd;
+      }
+
+      .i {
+        fill: url(#d);
+      }
+
+      .j {
+        fill: #4d53e8;
+      }
+    </style>
+    <linearGradient id="b" data-name="3" x1="59.48" y1="716.99" x2="59.16" y2="703.99" gradientTransform="translate(0 770) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#272dcc"/>
+      <stop offset="1" stop-color="#9a9df2"/>
+    </linearGradient>
+    <linearGradient id="c" data-name="2" x1="50.32" y1="709.49" x2="48.98" y2="704.49" gradientTransform="translate(0 770) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2b33e6"/>
+      <stop offset="1" stop-color="#a19af2"/>
+    </linearGradient>
+    <linearGradient id="d" data-name="3" x1="41.34" y1="718.33" x2="40.07" y2="692.39" xlink:href="#b"/>
+  </defs>
+  <path class="j" d="M20.08,10h59.84c5.56,0,10.08,4.52,10.08,10.08v59.83c0,5.56-4.52,10.08-10.08,10.08H20.08c-5.56,0-10.08-4.52-10.08-10.08V20.08c0-5.56,4.52-10.08,10.08-10.08Z"/>
+  <path class="h" d="M50.34,22.6c-11.57,0-20.94,9.38-20.94,20.95h0v8.79h-5.03c-5.77,0-7.08,8.09-1.6,9.91l6.63,2.2v3.79c0,3.75,3.95,6.19,7.3,4.51l3.67-1.83c.17-.09.37,0,.43.18,2.97,9.29,16.11,9.29,19.08,0,.05-.16.23-.25.39-.2.02,0,.03.01.05.02l3.67,1.83c3.35,1.68,7.29-.76,7.29-4.51v-3.79l6.62-2.2c5.48-1.82,4.18-9.91-1.6-9.91h-5.03v-8.79c0-11.57-9.38-20.95-20.94-20.95h0Z"/>
+  <path class="g" d="M57.42,54.37c0-1.12.91-2.03,2.03-2.03s2.03.91,2.03,2.03h0c0,1.12-.91,2.03-2.03,2.03s-2.03-.91-2.03-2.03Z"/>
+  <path class="f" d="M43.88,61.83c-.77-.81-.74-2.1.08-2.87.78-.74,2.01-.74,2.79,0,1.98,1.98,5.18,1.98,7.16,0h0c.79-.79,2.08-.79,2.87,0s.79,2.08,0,2.87h0c-3.56,3.56-9.33,3.56-12.89,0h0s0,0,0,0Z"/>
+  <path class="i" d="M41.21,50.31c-1.12,0-2.03.9-2.03,2.02,0,0,0,0,0,0v4.05c0,1.12.91,2.03,2.03,2.03s2.03-.91,2.03-2.03v-4.05c0-1.12-.9-2.03-2.02-2.03h0Z"/>
+</svg>
