@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" width="100" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .i {
+        fill: #fff;
+      }
+
+      .i, .j, .k, .l {
+        fill-rule: evenodd;
+        stroke-width: 0px;
+      }
+
+      .j {
+        fill: #f04e98;
+      }
+
+      .k {
+        fill: #00bfb3;
+      }
+
+      .m {
+        mask: url(#d);
+      }
+
+      .l {
+        fill: #343741;
+      }
+    </style>
+    <mask id="d" data-name="mask" x="18.18" y="51.84" width="65.57" height="43.16" maskUnits="userSpaceOnUse">
+      <g id="e" data-name="mask-2">
+        <polygon id="f" data-name="path-1" class="i" points="18.18 51.84 83.75 51.84 83.75 95 18.18 95 18.18 51.84"/>
+      </g>
+    </mask>
+  </defs>
+  <path id="b" data-name="Fill-1" class="j" d="M85.16,5H14.84v33.75c12.16,0,23.58,3.13,33.56,8.57L85.16,5Z"/>
+  <path id="c" data-name="Fill-3" class="l" d="M14.84,38.75v47.22l33.56-38.65c-9.98-5.44-21.4-8.57-33.56-8.57"/>
+  <g class="m">
+    <path id="g" data-name="Fill-5" class="k" d="M55.66,51.84l-34.44,39.66-3.04,3.5h65.57c-3.6-17.73-13.89-33.01-28.09-43.16"/>
+  </g>
+</svg>

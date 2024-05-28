@@ -39,6 +39,9 @@
 ### elastic · Elastic
 [![esma_1.svg](website-logos/elastic.svg)](website-logos/elastic.svg)
 
+### elasticsearch · Elasticsearch
+[![elasticsearch.svg](website-logos/elasticsearch.svg)](website-logos/elasticsearch.svg)
+
 ### esma · ESMA
 [![esma_1.svg](website-logos/esma_1.svg)](website-logos/esma_1.svg)
 
@@ -76,6 +79,9 @@
 [![jd.svg](website-logos/jd.svg)](website-logos/jd.svg)
 [![jd_2.svg](website-logos/jd_2.svg)](website-logos/jd_2.svg)
 
+### kibana · Kibana
+[![kibana.svg](website-logos/kibana.svg)](website-logos/kibana.svg)
+
 ### kimiai · Kimi AI
 [![kimiai.svg](website-logos/kimiai.svg)](website-logos/kimiai.svg)
 
@@ -90,12 +96,24 @@
 ### kubernetes · Kubernetes
 [![kubernetes.svg](website-logos/kubernetes.svg)](website-logos/kubernetes.svg)
 
+### logstash · Logstash
+[![logstash.svg](website-logos/logstash.svg)](website-logos/logstash.svg)
+
 ### maven · Maven
 [![maven.svg](website-logos/maven.svg)](website-logos/maven.svg)
 
 ### mdn · MDN
 [![mdn.svg](website-logos/mdn.svg)](website-logos/mdn.svg)
 [![mdn_2.svg](website-logos/mdn_2.svg)](website-logos/mdn_2.svg)
+
+### mongodb · MongoDB
+[![mongodb.svg](website-logos/mongodb.svg)](website-logos/mongodb.svg)
+
+### mongodb_on_dark · MongoDB（暗色模式）
+[![mongodb_on_dark.svg](website-logos/mongodb_on_dark.svg)](website-logos/mongodb_on_dark.svg)
+
+### mssql · Microsoft SQL Server
+[![mssql.svg](website-logos/mssql.svg)](website-logos/mssql.svg)
 
 ### mybatis · MyBatis
 [![mybatis.svg](website-logos/mybatis.svg)](website-logos/mybatis.svg)
@@ -129,6 +147,9 @@
 
 ### qiuwenbaike_on_dark · 求闻百科（暗色模式）
 [![qiuwenbaike_on_dark.svg](website-logos/qiuwenbaike_on_dark.svg)](website-logos/qiuwenbaike_on_dark.svg)
+
+### rabbitmq · RabbitMQ
+[![rabbitmq.svg](website-logos/rabbitmq.svg)](website-logos/rabbitmq.svg)
 
 ### rancher · Rancher
 [![rancher.svg](website-logos/rancher.svg)](website-logos/rancher.svg)
