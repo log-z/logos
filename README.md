@@ -60,6 +60,9 @@
 ### github_on_dark · GitHub（暗色模式）
 [![github_on_dark.svg](website-logos/github_on_dark.svg)](website-logos/github_on_dark.svg)
 
+### gitlab · GitLab
+[![gitlab.svg](website-logos/gitlab.svg)](website-logos/gitlab.svg)
+
 ### google · Google
 [![google.svg](website-logos/google.svg)](website-logos/google.svg)
 
@@ -96,6 +99,9 @@
 ### kubernetes · Kubernetes
 [![kubernetes.svg](website-logos/kubernetes.svg)](website-logos/kubernetes.svg)
 
+### kubesphere · KubeSphere
+[![kubesphere.svg](website-logos/kubesphere.svg)](website-logos/kubesphere.svg)
+
 ### logstash · Logstash
 [![logstash.svg](website-logos/logstash.svg)](website-logos/logstash.svg)
 
@@ -120,6 +126,9 @@
 
 ### mysql · MySQL
 [![mysql.svg](website-logos/mysql.svg)](website-logos/mysql.svg)
+
+### nacos · Nacos
+[![nacos.svg](website-logos/nacos.svg)](website-logos/nacos.svg)
 
 ### npm
 [![npm.svg](website-logos/npm.svg)](website-logos/npm.svg)
@@ -166,6 +175,15 @@
 ### sharemania · ShareMania
 [![sharemania.svg](website-logos/sharemania.svg)](website-logos/sharemania.svg)
 
+### skywalking · SkyWalking
+[![skywalking.svg](website-logos/skywalking.svg)](website-logos/skywalking.svg)
+
+### sonarqube · SonarQube
+[![sonarqube.svg](website-logos/sonarqube.svg)](website-logos/sonarqube.svg)
+
+### sonarqube_on_dark · SonarQube（暗色模式）
+[![sonarqube_on_dark.svg](website-logos/sonarqube_on_dark.svg)](website-logos/sonarqube_on_dark.svg)
+
 ### spring · Spring
 [![spring.svg](website-logos/spring.svg)](website-logos/spring.svg)
 
@@ -182,6 +200,9 @@
 [![taobao.svg](website-logos/taobao.svg)](website-logos/taobao.svg)
 [![taobao_2.svg](website-logos/taobao_2.svg)](website-logos/taobao_2.svg)
 
+### teamcity · TeamCity
+[![teamcity.svg](website-logos/teamcity.svg)](website-logos/teamcity.svg)
+
 ### tingfm · TingFM
 [![tingfm.svg](website-logos/tingfm.svg)](website-logos/tingfm.svg)
 
@@ -191,7 +212,7 @@
 ### v2ex · V2EX
 [![v2ex.svg](website-logos/v2ex.svg)](website-logos/v2ex.svg)
 
-### v2ex · V2EX（暗色模式）
+### v2ex_on_dark · V2EX（暗色模式）
 [![v2ex_on_dark.svg](website-logos/v2ex_on_dark.svg)](website-logos/v2ex_on_dark.svg)
 
 ### vue · Vue
