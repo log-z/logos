@@ -4,9 +4,18 @@
 
 ## website-logos
 
+### alipay · 支付宝
+[![alipay.svg](website-logos/alipay.svg)](website-logos/alipay.svg)
+
 ### android · Android
 [![adnroid.svg](website-logos/android.svg)](website-logos/android_2.svg)
 [![adnroid_2.svg](website-logos/android_2.svg)](website-logos/android_2.svg)
+
+### archerydms · Archery DMS
+[![archerydms.svg](website-logos/archerydms.svg)](website-logos/archerydms.svg)
+
+### archerydms_on_dark · Archery DMS（暗色模式）
+[![archerydms_on_dark.svg](website-logos/archerydms_on_dark.svg)](website-logos/archerydms_on_dark.svg)
 
 ### baidufanyi · 百度翻译
 [![baidufanyi.svg](website-logos/baidufanyi.svg)](website-logos/baidufanyi.svg)
@@ -180,6 +189,7 @@
 
 ### sonarqube · SonarQube
 [![sonarqube.svg](website-logos/sonarqube.svg)](website-logos/sonarqube.svg)
+[![sonarqube_2.svg](website-logos/sonarqube_2.svg)](website-logos/sonarqube_2.svg)
 
 ### sonarqube_on_dark · SonarQube（暗色模式）
 [![sonarqube_on_dark.svg](website-logos/sonarqube_on_dark.svg)](website-logos/sonarqube_on_dark.svg)
