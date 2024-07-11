@@ -1,6 +1,9 @@
 # SVG Logos
+[![](https://data.jsdelivr.com/v1/package/gh/log-z/logos/badge?style=rounded)](https://cdn.jsdelivr.net/gh/log-z/logos@main/)
 
-持续更新。Continuous update.
+持续更新，国内可以使用 [jsDelivr](https://cdn.jsdelivr.net/gh/log-z/logos@main/) 在线加速。
+
+Continuous update.
 
 ## website-logos
 
