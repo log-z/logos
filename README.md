@@ -30,9 +30,6 @@
 [![bilibili_3.svg](website-logos/bilibili_3.svg)](website-logos/bilibili_3.svg)
 [![bilibili_4.svg](website-logos/bilibili_4.svg)](website-logos/bilibili_4.svg)
 
-### css3 · CSS 3
-[![css3.svg](website-logos/css3.svg)](website-logos/css3.svg)
-
 ### chatglm · 智谱清言
 [![chatglm.svg](website-logos/chatglm.svg)](website-logos/chatglm.svg)
 
@@ -41,6 +38,12 @@
 
 ### coze_on_dark · 扣子（暗色模式）
 [![coze_on_dark.svg](website-logos/coze_on_dark.svg)](website-logos/coze_on_dark.svg)
+
+### css3 · CSS 3
+[![css3.svg](website-logos/css3.svg)](website-logos/css3.svg)
+
+### deepseek · DeepSeek
+[![deepseek.svg](website-logos/deepseek.svg)](website-logos/deepseek.svg)
 
 ### docker · Docker
 [![docker.svg](website-logos/docker.svg)](website-logos/docker.svg)
