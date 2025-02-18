@@ -196,6 +196,7 @@ Continuous update.
 ### sonarqube · SonarQube
 [![sonarqube.svg](website-logos/sonarqube.svg)](website-logos/sonarqube.svg)
 [![sonarqube_2.svg](website-logos/sonarqube_2.svg)](website-logos/sonarqube_2.svg)
+[![sonarqube_3.svg](website-logos/sonarqube_3.svg)](website-logos/sonarqube_3.svg)
 
 ### sonarqube_on_dark · SonarQube（暗色模式）
 [![sonarqube_on_dark.svg](website-logos/sonarqube_on_dark.svg)](website-logos/sonarqube_on_dark.svg)
