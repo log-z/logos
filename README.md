@@ -97,6 +97,12 @@ Continuous update.
 [![jd.svg](website-logos/jd.svg)](website-logos/jd.svg)
 [![jd_2.svg](website-logos/jd_2.svg)](website-logos/jd_2.svg)
 
+### kafka · Kafka
+[![kafka.svg](website-logos/kafka.svg)](website-logos/kafka.svg)
+
+### kafka_on_dark · Kafka（暗色模式）
+[![kafka_on_dark.svg](website-logos/kafka_on_dark.svg)](website-logos/kafka_on_dark.svg)
+
 ### kibana · Kibana
 [![kibana.svg](website-logos/kibana.svg)](website-logos/kibana.svg)
 
