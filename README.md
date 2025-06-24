@@ -60,6 +60,9 @@ Continuous update.
 ### esma · ESMA
 [![esma_1.svg](website-logos/esma_1.svg)](website-logos/esma_1.svg)
 
+### exttorrents · EXT Torrents
+[![exttorrents.svg](website-logos/exttorrents.svg)](website-logos/exttorrents.svg)
+
 ### flink · Flink
 [![flink.svg](website-logos/flink.svg)](website-logos/flink.svg)
 
