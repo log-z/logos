@@ -36,6 +36,15 @@ Continuous update.
 ### chatglm · 智谱清言
 [![chatglm.svg](website-logos/chatglm.svg)](website-logos/chatglm.svg)
 
+### cncf · CNCF
+[![cncf.svg](website-logos/cncf.svg)](website-logos/cncf.svg)
+
+### cncf_on_dark · CNCF（暗色模式）
+[![cncf_on_dark.svg](website-logos/cncf_on_dark.svg)](website-logos/cncf_on_dark.svg)
+
+### cncf_landscape · CNCF Landscape
+[![cncf_landscape.svg](website-logos/cncf_landscape.svg)](website-logos/cncf_landscape.svg)
+
 ### coze · 扣子
 [![coze.svg](website-logos/coze.svg)](website-logos/coze.svg)
 
