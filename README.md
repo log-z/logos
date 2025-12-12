@@ -60,6 +60,9 @@ Continuous update.
 ### docker · Docker
 [![docker.svg](website-logos/docker.svg)](website-logos/docker.svg)
 
+### easychuan · 轻松传
+[![easychuan.svg](website-logos/easychuan.svg)](website-logos/easychuan.svg)
+
 ### elastic · Elastic
 [![esma_1.svg](website-logos/elastic.svg)](website-logos/elastic.svg)
 
