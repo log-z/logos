@@ -213,6 +213,7 @@ Continuous update.
 
 ### sharemania · ShareMania
 [![sharemania.svg](website-logos/sharemania.svg)](website-logos/sharemania.svg)
+[![sharemania_2.svg](website-logos/sharemania_2.svg)](website-logos/sharemania_2.svg)
 
 ### skywalking · SkyWalking
 [![skywalking.svg](website-logos/skywalking.svg)](website-logos/skywalking.svg)
