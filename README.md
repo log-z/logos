@@ -45,6 +45,14 @@ Continuous update.
 ### cncf_landscape · CNCF Landscape
 [![cncf_landscape.svg](website-logos/cncf_landscape.svg)](website-logos/cncf_landscape.svg)
 
+### copaw · CoPaw
+[![copaw.svg](website-logos/copaw.svg)](website-logos/copaw.svg)
+[![copaw_2.svg](website-logos/copaw_2.svg)](website-logos/copaw_2.svg)
+
+### copaw_on_dark · CoPaw（暗色模式）
+[![copaw_on_dark.svg](website-logos/copaw_on_dark.svg)](website-logos/copaw_on_dark.svg)
+[![copaw_on_dark_2.svg](website-logos/copaw_on_dark_2.svg)](website-logos/copaw_on_dark_2.svg)
+
 ### coze · 扣子
 [![coze.svg](website-logos/coze.svg)](website-logos/coze.svg)
 
@@ -168,6 +176,9 @@ Continuous update.
 
 ### nacos · Nacos
 [![nacos.svg](website-logos/nacos.svg)](website-logos/nacos.svg)
+
+### nezhamonitoring · 哪吒监控
+[![nezhamonitoring.svg](website-logos/nezhamonitoring.svg)](website-logos/nezhamonitoring.svg)
 
 ### npm
 [![npm.svg](website-logos/npm.svg)](website-logos/npm.svg)
