@@ -14,6 +14,10 @@ Continuous update.
 [![adnroid.svg](website-logos/android.svg)](website-logos/android_2.svg)
 [![adnroid_2.svg](website-logos/android_2.svg)](website-logos/android_2.svg)
 
+### appwrite · Appwrite
+[![appwrite.svg](website-logos/appwrite.svg)](website-logos/appwrite.svg)
+[![appwrite_on_dark.svg](website-logos/appwrite_on_dark.svg)](website-logos/appwrite_on_dark.svg)
+
 ### archerydms · Archery DMS
 [![archerydms.svg](website-logos/archerydms.svg)](website-logos/archerydms.svg)
 
