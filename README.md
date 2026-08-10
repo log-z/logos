@@ -16,6 +16,8 @@ Continuous update.
 
 ### appwrite · Appwrite
 [![appwrite.svg](website-logos/appwrite.svg)](website-logos/appwrite.svg)
+
+### appwrite_on_dark · Appwrite（暗色模式）
 [![appwrite_on_dark.svg](website-logos/appwrite_on_dark.svg)](website-logos/appwrite_on_dark.svg)
 
 ### archerydms · Archery DMS
